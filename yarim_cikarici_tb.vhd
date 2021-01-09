@@ -1,11 +1,11 @@
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
-entity half_adder_tb1 is
+entity yarim_cikarici_tb is
 --  Port ( );
-end half_adder_tb1;
+end yarim_cikarici_tb;
 
-architecture Behavioral of half_adder_tb1 is
+architecture Behavioral of yarim_cikarici_tb is
 component yarim_cikarici 
 Port(
         x : in std_logic;
