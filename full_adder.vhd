@@ -1,6 +1,6 @@
 ------------
-Suat Bozkurt 
-14-11-2021 01:08
+--Suat Bozkurt 
+--14-11-2021 01:08
 
 
 library IEEE;
